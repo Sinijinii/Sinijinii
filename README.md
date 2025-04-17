@@ -1,63 +1,66 @@
-<!-- README.md -->
 
-<h1 align="center">👋 Hi, I'm Sinijini!</h1>
-<p align="center">
-  💡 AI, Front-End, Back-End를 넘나드는 <strong>Full Stack Developer</strong><br/>
-  🎯 기술을 사람 중심의 서비스로 연결합니다.
-</p>
+### 🧑‍💻 About Me
 
-<p align="center">
-  <a href="https://sinijinii.github.io/SINIJINI/" target="_blank">
-    <img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:gmlwls2407@gmail.com">
-    <img src="https://img.shields.io/badge/gmlwls2407@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+- 🧠 AI/ML, 💻 Front-end, 🔧 Back-end까지 종합적인 경험을 갖춘 풀스택 개발자
+- 사용자 중심의 흐름을 고려한 **통합 설계와 개발**을 추구합니다
+- 실제 서비스로 이어지는 개발을 지향하며, **기획부터 배포까지 전 과정**을 직접 경험했습니다
 
 ---
 
-### 🏆 Awards & Achievements
+### 🏆 Awards & Research
+
+- 🥉 관광 데이터 활용 공모전 **장려상** (2024.11)
 - 🥉 2024.11 **한국관광공사 관광 데이터 공모전 장려상**
 - 🥈 2024.11 **SSAFY 자율 프로젝트 우수상**
 - 🥈 2024.10 **SSAFY 특화 프로젝트 우수상**
 - 🥈 2024.05 **SSAFY 관통 프로젝트 우수상**
-
-### 📝 Publication
-- **2023.05** 카메라 및 관성 측정 장치 융합 기반<br/>
-  <strong>“딥러닝 기반 수작업 조립 공정 작업자 동작 인식 방법론”</strong><br/>
-  <a href="https://sinijinii.github.io/SINIJINI/paper.pdf" target="_blank">📄 논문 보러가기</a>
+- 📄 [AI 기반 수작업 공정 동작 인식 논문 (2023.05)](https://sinijinii.github.io/SINIJINI/paper.pdf)
 
 ---
 
 ### 🚀 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-</p>
+
+#### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=HuggingFace&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+
+#### 💻 Front-End
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white)
+
+#### 🛠 Back-End
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinijinii&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinijinii&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sinijinii&theme=default&hide_border=true" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sinijinii&theme=default" />
 </p>
 
+---
+
+### ⏰ WakaTime (개발 시간 통계)
+
+[![wakatime](https://wakatime.com/badge/user/your-id.svg)](https://wakatime.com/@your-id)  
+<sub>WakaTime 아이디를 설정해야 표시됩니다.</sub>
 
 ---
 
-### 💬 Contact
-- 📫 Email: gmlwls2407@gmail.com
-- 🌐 Portfolio: [sinijinii.github.io/SINIJINI](https://sinijinii.github.io/SINIJINI)
+### 🗓 Visitor Counter
 
----
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sinijinii&label=Profile%20views&color=0e75b6&style=flat" alt="Sinijinii" />
+</p>
