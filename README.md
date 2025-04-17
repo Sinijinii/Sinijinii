@@ -41,26 +41,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sinijinii&theme=default&hide_border=true" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sinijinii&theme=default" />
-</p>
-
----
-
-### ⏰ WakaTime (개발 시간 통계)
-
-[![wakatime](https://wakatime.com/badge/user/your-id.svg)](https://wakatime.com/@your-id)  
-<sub>WakaTime 아이디를 설정해야 표시됩니다.</sub>
-
----
-
-### 🗓 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sinijinii&label=Profile%20views&color=0e75b6&style=flat" alt="Sinijinii" />
-</p>
