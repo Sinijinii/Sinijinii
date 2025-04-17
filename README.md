@@ -1,3 +1,12 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hi,%20I'm%20Sinijini!&fontAlign=50&fontAlignY=40&fontSize=40)
+
+📌 [📁 포트폴리오 보기](https://sinijinii.github.io/SINIJINI)
+
+</div>
+
+---
 
 ### 🧑‍💻 About Me
 
